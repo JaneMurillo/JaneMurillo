@@ -1,7 +1,6 @@
 <!-- Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Jeanette%20Murillo%20Cortes&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%26%20Database%20Engineer&descAlignY=58&descSize=18" alt="header" />
-</p>
+<h1 align="center">Hi 👋, I'm Jeanette Murillo Cortes</h1>
+<h3 align="center">Backend & Database Engineer · Guadalajara, México 🇲🇽</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -23,12 +22,8 @@ I'm a **Backend & Database Engineer** from Guadalajara, México 🇲🇽 who lov
 
 - 🔧 Resolved **500+ production incidents** on high-availability, distributed **Oracle Database** environments as a Global Database Support Engineer at **Oracle**.
 - 🚨 Point of contact on **P1/P2 outages**, coordinating engineering, DBA and customer success teams under tight SLAs.
-- 🧠 Built a **cosine-similarity matching engine from scratch** (no ML libraries) for a platform with **350+ real-world matches**.
 - 🎓 B.S. in **Computer Engineering** — CUCEI, Universidad de Guadalajara · **GPA 98/100 (top 1% of cohort)**.
-- ☁️ **Oracle Cloud Infrastructure** certified (Foundations + AI Foundations).
-- 🏆 Competitive programmer — **ICPC México Summer Camp** & **Competitive Programming Training Camp México**.
 - 🌎 Bilingual: Spanish (native) · English (fluent, business & technical).
-- 💬 Ask me about: **SQL tuning, database internals, root-cause analysis, compilers, algorithms**.
 
 ---
 
@@ -59,42 +54,8 @@ I'm a **Backend & Database Engineer** from Guadalajara, México 🇲🇽 who lov
 
 ---
 
-## 💼 Experience
-
-**🔴 Oracle** — *Global Database Support Engineer* · `Jun 2024 – Aug 2025`
-> Production troubleshooting on mission-critical distributed Oracle DB environments: SQL diagnostics, log analysis, upgrades/migrations, and documented troubleshooting workflows (ISP) adopted by the team.
-
-**🎧 Altomobile LLC** — *Junior Quality Assurance Engineer* · `Feb 2022 – Apr 2023`
-> Functional, regression and acceptance testing of the 360 Reality Audio plugin in agile sprints with CI/CD-integrated QA workflows.
-
----
-
-## 🚀 Featured projects
-
-| Project | Description | Stack |
-|---|---|---|
-| 🐶 **RUFO — Pet Adoption Platform** | Recommendation engine built from scratch with **cosine similarity** over a 13-attribute preference vector (sex, size, age + 10 personality traits) to rank dogs for adopters. Designed the relational schema and optimized search/filter queries. | `Node.js` `PostgreSQL` `React` |
-| ⚙️ **Custom Compiler** | Compiler written from scratch: lexical, syntactic and semantic analysis phases. | `C++` |
-| 📊 **Data Warehouse — Northwind Traders** | Migrated source data from Excel to a PostgreSQL warehouse with Python ETL automation and tuned analytical queries. | `PostgreSQL` `Python` `SQL` |
-
----
-
-## 📈 GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JaneMurillo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaneMurillo&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=JaneMurillo&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
----
-
 ## 📜 Certifications
 
-![OCI AI Foundations](https://img.shields.io/badge/OCI-AI%20Foundations%20Associate-C74634?style=flat-square&logo=oracle)
-![OCI Foundations](https://img.shields.io/badge/OCI-Foundations%20Associate-C74634?style=flat-square&logo=oracle)
 ![edX](https://img.shields.io/badge/edX-Intro%20to%20Cloud%20Computing-02262B?style=flat-square&logo=edx)
 
 ---
@@ -102,8 +63,4 @@ I'm a **Backend & Database Engineer** from Guadalajara, México 🇲🇽 who lov
 <p align="center">
   <i>"Every production incident is just a puzzle with a deadline."</i> 🧩<br/>
   <b>Let's connect!</b>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" alt="footer" />
 </p>
